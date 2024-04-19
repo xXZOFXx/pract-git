@@ -1,4 +1,8 @@
 Hola, Alan. cómo estas ??? xd 
 Hola yo stoy bien, y usted?
 bien, gracias. estamnos aprendiendo git
+<<<<<<< HEAD
 repaso git
+=======
+Que gusto, sigamos aprendiendo
+>>>>>>> 51b82c81966796ce74c1866abe0f7f94af1df9f7
