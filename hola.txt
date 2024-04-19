@@ -1,3 +1,4 @@
 Hola, Alan. cómo estas ??? xd 
 Hola yo stoy bien, y usted?
 bien, gracias. estamnos aprendiendo git
+repaso git
